@@ -1,0 +1,14 @@
+[beer]
+name = Heineken
+liter_price_brl = 0.10
+
+[calibration]
+flow = 3340
+
+[money]
+btc_brl = 37000.0
+btc_usd = 9000.0
+
+[live]
+use_live_rates = True
+
