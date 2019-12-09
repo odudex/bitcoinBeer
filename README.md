@@ -9,3 +9,10 @@ An user will select the wished beer amount using a touch display. A QR code invo
 # How it Does
 A GUI was created in python’s tkinter, it runs on a raspberry pi, connected to a touch screen display, a valve and a flow meter.
 The payments are managed by an external payment server, running full nodes of Bitcoin and Lightning.
+
+#Lightning Payment Server
+This applicatino conects to a private server. You will have to modify "Lightning.py" to connect yout own server.
+
+# Donate
+bc1qk6qzr5c6yyq7jg7phr4jtcag0qj4gd4vfxg66w
+
