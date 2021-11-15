@@ -14,7 +14,8 @@ Payments are managed by an external payment server, running full nodes of Bitcoi
 This applicatino conects to a private server. You will have to modify "Lightning.py" to connect yout own server.
 
 # Donate
-bc1qk6qzr5c6yyq7jg7phr4jtcag0qj4gd4vfxg66w
+Lightning: odudex@zbd.gg
+Onchain: bc1qk6qzr5c6yyq7jg7phr4jtcag0qj4gd4vfxg66w
 
 # Video
 https://youtu.be/m26xDtktjr0
