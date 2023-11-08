@@ -14,7 +14,7 @@ Payments are managed by an external payment server, running full nodes of Bitcoi
 This applicatino conects to a private server. You will have to modify "Lightning.py" to connect yout own server.
 
 # Donate
-Lightning: odudex@zbd.gg
+Lightning: odudex@zeuspay.com
 Onchain: bc1qk6qzr5c6yyq7jg7phr4jtcag0qj4gd4vfxg66w
 
 # Video
